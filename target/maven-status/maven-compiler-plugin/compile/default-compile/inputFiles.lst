@@ -1,0 +1,16 @@
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\config\WebConfig.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\controllers\GameController.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\controllers\GameListController.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\DslistApplication.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\dtos\GameDTO.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\dtos\GameListDTO.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\dtos\GameMinDTO.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\models\BelongingModel.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\models\BelongingPKModel.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\models\GameListModel.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\models\GameModel.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\projections\GameMinProjection.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\repositories\GameListRepository.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\repositories\GameRepository.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\services\GameListService.java
+C:\Users\thy_t\Desktop\intensivaoJava\dslist\src\main\java\com\devsuperior\dslist\services\GameService.java
