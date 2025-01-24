@@ -72,6 +72,23 @@ O banco de dados PostgreSQL também está no Render.
             }
         ]
 ~~~
+![Static Badge](https://img.shields.io/badge/POST-yellow?style=for-the-badge)
+~~~
+    /lists/{id}/replacement
+        Altera a posição de um jogo na lista especificada
+
+        @RequestBody:
+            {
+                "sourceIndex": int,
+                "destinationIndex": int
+            }
+
+        Retorna uma string se der tudo certo
+            {
+                "Alteração feita com sucesso"
+            }
+~~~
+
 
 #### Projeto baseado no desafio: https://github.com/devsuperior/dslist-backend
 
